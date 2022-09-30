@@ -1,0 +1,23 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Creating a landing page with HTML, CSS and JavaScript. Level Basic. This project is built with knowledge gained from Asynchronicity in JavaScript class at the Platzi.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianUrdaneguiBisalaya/async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianUrdaneguiBisalaya/async-landing/issues"
+  },
+  "homepage": "https://github.com/SebastianUrdaneguiBisalaya/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
